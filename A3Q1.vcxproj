@@ -24,6 +24,7 @@
     <ProjectGuid>{254662d6-b7a5-45f3-94b2-71f6d0405a51}</ProjectGuid>
     <RootNamespace>A3Q1</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>openGL-sphere-lighting-program</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
