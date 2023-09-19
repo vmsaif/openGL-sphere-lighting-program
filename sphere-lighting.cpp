@@ -1,11 +1,8 @@
-// Q1.cpp : This file contains the 'main' function. Program execution begins and ends there.
+
 /*
 	Author: Saif Mahmud
-	Student ID: 3433058
 	Date : 3 / 22 / 2023
-	Course: COMP 390
-	TME = 3
-	Program : 1
+
 	Purpose: To develop a program to light a sphere using OpenGL's lighting features.
 	The program defines three light sources originating from the top left corner,
 	top right corner, and directly behind the viewer. Each light source should shed a
@@ -17,7 +14,7 @@
 */
 
 #include <iostream>
-#include "glut.h"
+#include <GL/glut.h>
 
 static int menu_id1, menu_id2, menu_id3, menu_id4, menu_id5, menu_id6;
 static int selectedLight;
