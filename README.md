@@ -32,11 +32,11 @@ This project requires the OpenGL library or `glut.h`. The easiest way to set it 
 
 1. Go to the directory where you cloned the project.
 2. Open the `openGL-sphere-lighting-program.sln` file to open the project in Visual Studio.
-2. Click on `Project` in the menu bar.
-3. Select `Manage NuGet Packages`.
-4. Click on the "Browse" tab.
-5. Search for "freeglut".
-6. Select "nupengl.core" (which includes glut.h) and click `Install`.
+3. Click on `Project` in the menu bar.
+4. Select `Manage NuGet Packages`.
+5. Click on the "Browse" tab.(If you don't see it, close the VS window, then resume from step 2.)
+6. Search for "freeglut".
+7. Select "nupengl.core" (which includes glut.h) and click `Install`.(If already installed, then uninstall then install again).
 
 ## Interactions
 
